@@ -8,7 +8,7 @@ Build your own AI investor 2020. Track performance on www.valueinvestingai.com. 
 
 ## What has the AI done?
 * Selected stocks from March 2020 to be held for one year
-* Transaction now out on Bitcoin Blockchain for future reference
+* Stock selection now on the Bitcoin Blockchain for future reference
 * Can be seen here: https://www.blockchain.com/btc/tx/4234bd073d7c261b490789ddb59bf2adc3192b89cfc22ca84ed04d353cf69396
 
 ## Disclaimer
