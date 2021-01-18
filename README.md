@@ -1,5 +1,5 @@
 # Build_Your_Own_AI_Investor
-Build your own AI investor 2020. Track performance on www.valueinvestingai.com. Buy the book on Amazon. 
+Build your own AI investor 2020. Track performance on www.valueinvestingai.com. Buy the book on Amazon for full walkthrough and instructions from basic Python to completion of a Machine Learning project. 
 
 ## Who is this for?
 * To assist people who follow the book
